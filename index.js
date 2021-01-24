@@ -45,9 +45,7 @@ class myClient extends AkagoClient {
 
 const client = new myClient();
 client.start()
-const { MessageEmbed } = require('discord.js')
 
-this.embed = new MessageEmbed().setColor(config.embed_colour)
 
 
 
